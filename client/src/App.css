@@ -1,0 +1,18 @@
+.App {
+  align-items: center !important;
+}
+
+.navbar {
+  height: 15vh;
+}
+
+.message-box {
+  background: #eee;
+  width: 100%;
+  height: 65vh;
+  overflow-y: auto;
+}
+
+.msg-field {
+  height: 20vh;
+}
